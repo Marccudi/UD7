@@ -8,6 +8,7 @@ public class UD7Ej1 {
 		Scanner scn=new Scanner(System.in);	
 		Hashtable<String, Integer> notaMedia=new Hashtable<String, Integer>();
 		
+		//ejemplo de notas
 		notaMedia.put("Alejandro", 5);
 		notaMedia.put("Bonifacio", 9);
 		notaMedia.put("Oriol",2);
@@ -20,6 +21,7 @@ public class UD7Ej1 {
 		System.out.println("3-Mostrar notas");
 		System.out.println("4-Salir");
 		int elej=scn.nextInt();
+		
 		//menú
 		while (elej!=4) {
 
@@ -71,7 +73,6 @@ public class UD7Ej1 {
 
 				break;
 			case 4:
-				
 				System.out.println("Gracias por tu cooperación");
 				
 				break;

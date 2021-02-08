@@ -17,7 +17,7 @@ public class UD7Ej4 {
 		stock.put("Remolacha", 26);
 		stock.put("Alachofa", 32);
 		stock.put("Apio", 48);
-		stock.put("Patata", 55);
+		stock.put("Patata", 55); 
 		stock.put("Berenjena", 36);
 		stock.put("Brocoli", 77);
 		stock.put("Calabacín",58);

@@ -45,8 +45,8 @@ public class UD7Ej2 {
 		}
 		double precioIva=precioBruto+(precioBruto*iva);
 		
-		
-		//resultado
+		 
+		//resultados
 		System.out.println("Numero de productos: "+lista.size());	
 		System.out.println("IVA del "+iva*100 + "%");
 		System.out.println("Precio total (bruto) = "+ precioBruto + " €");
